@@ -1,6 +1,6 @@
 # Week 3 Assignment
 
-Yarn upgrade @vue/test-utils@^1.3.0 -D  ---> 1.0.3 to  ^1.3.0 
+Yarn upgrade @vue/test-utils@^1.3.0 -D  ----> 1.0.3 to  ^1.3.0 
 
 In this assignment, we expect to see tests like
 
