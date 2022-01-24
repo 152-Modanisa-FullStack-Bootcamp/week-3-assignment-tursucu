@@ -1,4 +1,4 @@
-# Week 3 Assignment
+# Week 3 Assignment test folder in src __tests__
 
 Yarn upgrade @vue/test-utils@^1.3.0 -D  ----> 1.0.3 to  ^1.3.0 
 
